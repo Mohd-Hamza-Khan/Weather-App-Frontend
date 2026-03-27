@@ -2,6 +2,12 @@
 
 A modern, responsive weather application built with React that provides real-time weather information and 5-day forecasts for any location worldwide.
 
+## PM Accelerator Mission
+
+*"By making industry-leading tools and education available to individuals from all backgrounds, we level the playing field for future PM leaders. This is the PM Accelerator motto, as we grant aspiring and experienced PMs what they need most – Access. We introduce you to industry leaders, surround you with the right PM ecosystem, and discover the new world of AI product management skills."*
+
+---
+
 ## Features
 
 - **Location Search**: Search by city name (London, Paris, New York) or zip code (10001, SW1A 1AA)
